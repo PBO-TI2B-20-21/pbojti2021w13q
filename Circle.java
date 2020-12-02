@@ -46,8 +46,6 @@ public class Circle extends Shape {
                 "Area : "+getArea()+"\n"+
                 "Perimeter : "+getPerimeter();
                 System.out.println("");
-        return data;
-//        return String.format("Circle dengan radius = %f, adalah subclass dari %s"
-//                            , radius, super.toString());
+        
     }
 }
